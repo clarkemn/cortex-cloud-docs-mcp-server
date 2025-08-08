@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "Cortex Cloud Docs": {
+      "command": "uv",
+      "args": ["run", "python", "server.py"],
+      "cwd": "/path/to/cortex-cloud-docs-mcp-server",
+      "env": {},
+      "transport": "stdio"
+    }
+  }
+}
