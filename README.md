@@ -1,5 +1,7 @@
 # Cortex Cloud Docs MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@clarkemn/cortex-cloud-docs-mcp-server)](https://smithery.ai/server/@clarkemn/cortex-cloud-docs-mcp-server)
+
 A Model Context Protocol (MCP) server that provides search access to Cortex Cloud documentation. This server allows Claude and other MCP-compatible clients to search through Cortex Cloud's official documentation and API references.
 
 ## Features
