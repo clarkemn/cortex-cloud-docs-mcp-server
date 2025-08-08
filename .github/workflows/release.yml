@@ -38,7 +38,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: pypi
-      url: https://pypi.org/p/aws-priv-actions
+      url: https://pypi.org/p/cortex-cloud-docs-mcp-server
     permissions:
       id-token: write
 
@@ -60,7 +60,7 @@ jobs:
 
     environment:
       name: testpypi
-      url: https://test.pypi.org/p/aws-priv-actions
+      url: https://test.pypi.org/p/cortex-cloud-docs-mcp-server
 
     permissions:
       id-token: write
