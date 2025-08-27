@@ -1,6 +1,6 @@
 [project]
 name = "cortex-cloud-docs-mcp-server"
-version = "1.0.0"
+version = "1.1.0"
 description = "MCP server providing search access to Cortex Cloud documentation"
 readme = "README.md"
 authors = [
@@ -18,7 +18,8 @@ dependencies = [
     "aiohttp>=3.11.10",
     "beautifulsoup4>=4.13.3",
     "fastmcp>=0.1.0",
-    "uvicorn>=0.34.0"
+    "uvicorn>=0.34.0",
+    "starlette>=0.41.0"
 ]
 
 [project.scripts]
