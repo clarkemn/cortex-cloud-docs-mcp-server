@@ -14,10 +14,10 @@ classifiers = [
 ]
 requires-python = ">=3.12"
 dependencies = [
-    "mcp[cli]>=1.12.2",
+    "mcp[cli]>=1.28.1,<2",
     "aiohttp>=3.11.10",
     "beautifulsoup4>=4.13.3",
-    "fastmcp>=0.1.0",
+    "fastmcp>=0.1.0,<4",
     "uvicorn>=0.34.0",
     "starlette>=0.41.0"
 ]
