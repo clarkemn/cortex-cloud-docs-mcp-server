@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/clarkemn-cortex-cloud-docs-mcp-server-badge.png)](https://mseep.ai/app/clarkemn-cortex-cloud-docs-mcp-server)
+
 # Cortex Cloud Docs MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@clarkemn/cortex-cloud-docs-mcp-server)](https://smithery.ai/server/@clarkemn/cortex-cloud-docs-mcp-server)
